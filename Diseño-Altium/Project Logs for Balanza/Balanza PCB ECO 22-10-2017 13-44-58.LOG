@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=D11 Pin=Arduino_Left-2
+Removed Pin From Net: NetName=D10 Pin=Arduino_Left-3
+Removed Pin From Net: NetName=SCK Pin=Arduino_Right-4
+Removed Pin From Net: NetName=DT Pin=Arduino_Right-5
+Removed Pin From Net: NetName=5V Pin=Arduino_Right-13
+Removed Pin From Net: NetName=GND Pin=Arduino_Right-14
+Removed Member From Class: ClassName=Balanza Member=Arduino_Left
+Removed Member From Class: ClassName=Balanza Member=Arduino_Right
+Added Component: Designator=ArduinoLeft(HDR1X15)
+Added Component: Designator=Arduino Right(HDR1X15)
+Added Pin To Net: NetName=SCK Pin=ArduinoLeft-4
+Added Pin To Net: NetName=DT Pin=ArduinoLeft-5
+Added Pin To Net: NetName=5V Pin=ArduinoLeft-13
+Added Pin To Net: NetName=GND Pin=ArduinoLeft-14
+Added Pin To Net: NetName=D11 Pin=Arduino Right-2
+Added Pin To Net: NetName=D10 Pin=Arduino Right-3
+Added Member To Class: ClassName=Balanza Member=Component ArduinoLeft Header 15
+Added Member To Class: ClassName=Balanza Member=Component Arduino Right Header 15

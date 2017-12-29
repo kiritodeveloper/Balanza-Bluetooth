@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=Alimentacion NewDesignator=Alim
+Change Component Designator: OldDesignator=ArduinoLeft NewDesignator=ArdL
+Change Component Designator: OldDesignator=Arduino Right NewDesignator=ArdR
+Change Component Designator: OldDesignator=Bluetooth NewDesignator=BT
+Change Component Designator: OldDesignator=HX711_Down NewDesignator=Cell6
+Change Component Designator: OldDesignator=HX711_Up NewDesignator=Cell4
+Change Component Designator: OldDesignator=LM258_5V NewDesignator=5V
+Change Component Designator: OldDesignator=LM258_9V NewDesignator=9V
+Added Component: Designator=4CellIn(HDR1X8)
+Added Pin To Net: NetName=E+ Pin=4CellIn-1
+Added Pin To Net: NetName=E- Pin=4CellIn-3
+Added Pin To Net: NetName=A- Pin=4CellIn-5
+Added Pin To Net: NetName=A+ Pin=4CellIn-7
+Added Member To Class: ClassName=Balanza Member=Component 4CellIn Header 8

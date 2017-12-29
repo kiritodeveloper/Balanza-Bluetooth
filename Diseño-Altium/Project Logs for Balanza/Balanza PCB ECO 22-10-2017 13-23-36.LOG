@@ -1,0 +1,56 @@
+Added Component: Designator=Arduino_Left(HDR1X15H)
+Added Component: Designator=Arduino_Right(HDR1X15H)
+Added Component: Designator=Bluetooth(HDR1X6)
+Added Component: Designator=HX711_Down(HDR1X6)
+Added Component: Designator=HX711_Up(HDR1X4)
+Added Component: Designator=LM258_5V(HDR1X7)
+Added Component: Designator=LM258_9V(HDR1X7)
+Added Component: Designator=P?(HDR1X3)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Pin To Net: NetName=5V Pin=Arduino_Right-13
+Added Pin To Net: NetName=5V Pin=Bluetooth-2
+Added Pin To Net: NetName=5V Pin=HX711_Up-4
+Added Pin To Net: NetName=5V Pin=LM258_5V-1
+Added Net: Name=5V
+Added Pin To Net: NetName=A+ Pin=HX711_Down-4
+Added Net: Name=A+
+Added Pin To Net: NetName=A- Pin=HX711_Down-3
+Added Net: Name=A-
+Added Pin To Net: NetName=B+ Pin=HX711_Down-6
+Added Net: Name=B+
+Added Pin To Net: NetName=B- Pin=HX711_Down-5
+Added Net: Name=B-
+Added Pin To Net: NetName=D10 Pin=Arduino_Left-3
+Added Pin To Net: NetName=D10 Pin=Bluetooth-4
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=Arduino_Left-2
+Added Pin To Net: NetName=D11 Pin=R1-1
+Added Net: Name=D11
+Added Pin To Net: NetName=DT Pin=Arduino_Right-5
+Added Pin To Net: NetName=DT Pin=HX711_Up-2
+Added Net: Name=DT
+Added Pin To Net: NetName=E+ Pin=HX711_Down-1
+Added Net: Name=E+
+Added Pin To Net: NetName=E- Pin=HX711_Down-2
+Added Net: Name=E-
+Added Pin To Net: NetName=GND Pin=Arduino_Right-14
+Added Pin To Net: NetName=GND Pin=Bluetooth-3
+Added Pin To Net: NetName=GND Pin=HX711_Up-1
+Added Pin To Net: NetName=GND Pin=LM258_5V-7
+Added Pin To Net: NetName=GND Pin=LM258_9V-7
+Added Pin To Net: NetName=GND Pin=P?-3
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Net: Name=GND
+Added Pin To Net: NetName=RXD Pin=Bluetooth-5
+Added Pin To Net: NetName=RXD Pin=R1-2
+Added Pin To Net: NetName=RXD Pin=R2-1
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCK Pin=Arduino_Right-4
+Added Pin To Net: NetName=SCK Pin=HX711_Up-3
+Added Net: Name=SCK
+Added Pin To Net: NetName=VCC Pin=LM258_9V-1
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Net: Name=VCC
+Added Class: Name=Balanza
+Added Room: Name=Balanza
